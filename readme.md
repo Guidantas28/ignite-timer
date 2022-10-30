@@ -2,8 +2,8 @@
 
     Timer pomodoro, com histórico para saber andamento das tarefas.
 
-    ![Pagina Inicial text](C:\Users\guida\OneDrive\Imagens\home_page.png)
-    ![Pagina de Histórico text](C:\Users\guida\OneDrive\Imagens\history.png)
+    ![home_page](https://user-images.githubusercontent.com/73999334/198885864-49775587-2ed3-4f4b-80c9-792d67c1cbfd.PNG)
+    ![history](https://user-images.githubusercontent.com/73999334/198885879-337ad9af-e540-458a-9b1c-9af6d9b1a2cd.PNG)
 
 ## :hammer: Funcionalidades do projeto
 
